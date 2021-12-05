@@ -1,0 +1,7 @@
+[
+  "PREFIRO NAO DECLARAR",
+  "PRETA",
+  "PARDA",
+  "AMARELA",
+  "AMARELA"
+]

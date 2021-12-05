@@ -1,0 +1,12 @@
+[
+  "PREFIRO NAO DECLARAR",
+  "PRETA",
+  "BRANCA",
+  "INDIGENA",
+  "PREFIRO NAO DECLARAR",
+  "BRANCA",
+  "AMARELA",
+  "PRETA",
+  "PRETA",
+  "PARDA"
+]
